@@ -1,75 +1,74 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+ # 🔢 React Calculator App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple, fully functional calculator built using **React.js**. This app supports basic arithmetic operations such as addition, subtraction, multiplication, and division. It's styled for a clean and modern user interface.
 
-## Available Scripts
+![React Calculator Screenshot](https://github.com/Ashwin-Chavhan/Calculator/blob/main/desktop_view.png)
 
-In the project directory, you can run:
+## 🚀 Live Demo
 
-### `npm start`
+Check out the live version of the calculator here: [Live Calculator App]( https://ashwin-chavhan.github.io/Calculator/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📌 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Basic arithmetic operations (+, -, ×, ÷)
+- Clear and Delete functionality
+- Responsive UI (works on mobile & desktop)
+- Easy-to-use interface
+- Keyboard input support (optional, if you added it)
 
-### `npm test`
+## 🛠️ Built With
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React.js](https://reactjs.org/) – Frontend library
+- HTML5 & CSS3 – Markup and styling
+- Optional: [Vite](https://vitejs.dev/) or [Create React App](https://create-react-app.dev/) – Project scaffolding
 
-### `npm run build`
+## 📸 Screenshots
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 💻 Desktop View
+![Desktop View](https://github.com/Ashwin-Chavhan/Calculator/blob/main/desktop_view.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 📱 Mobile View
+![Mobile View](https://github.com/Ashwin-Chavhan/Calculator/blob/main/mobile_view.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📂 Folder Structure
+```
+calculator-app/ ├── public/│ └── index.html
+├── src/ │ ├── components/ │ │ └── Calculator.jsx │
+├── App.js │
+├── index.js │ └── App.css
+├── package.json
+└── README.md
+```
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🧑‍💻 How to Run Locally
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone the repository:
+   ```bash
+   git clone  https://github.com/Ashwin-Chavhan/Calculator.git
+   ```
+   
+   ```bash
+   cd react-calculator
+   ```
+   ```bash
+   npm install
+   ```
+   ```bash
+   npm start
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📤 Deployment
+You can deploy this project easily using:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Vercel
 
-## Learn More
+Netlify
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+GitHub Pages
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🤝 Contributing
+Pull requests are welcome! If you'd like to make any improvements or suggest features, feel free to contribute.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Calculator
-Calculator Made Using React Js
->>>>>>> 85c718611f8d9f878af02030a6aacaf1f807afa2
+## 🧾 License
+This project is licensed under the MIT License.
