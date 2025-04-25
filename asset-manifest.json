@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Ashwin-Chavhan/Calculator.git/static/css/main.b877e960.css",
-    "main.js": "/Ashwin-Chavhan/Calculator.git/static/js/main.7d5ea94b.js",
+    "main.js": "/Ashwin-Chavhan/Calculator.git/static/js/main.df33ebb0.js",
     "index.html": "/Ashwin-Chavhan/Calculator.git/index.html",
     "main.b877e960.css.map": "/Ashwin-Chavhan/Calculator.git/static/css/main.b877e960.css.map",
-    "main.7d5ea94b.js.map": "/Ashwin-Chavhan/Calculator.git/static/js/main.7d5ea94b.js.map"
+    "main.df33ebb0.js.map": "/Ashwin-Chavhan/Calculator.git/static/js/main.df33ebb0.js.map"
   },
   "entrypoints": [
     "static/css/main.b877e960.css",
-    "static/js/main.7d5ea94b.js"
+    "static/js/main.df33ebb0.js"
   ]
 }
