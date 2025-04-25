@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Ashwin-Chavhan/Calculator.git/static/css/main.b877e960.css",
-    "main.js": "/Ashwin-Chavhan/Calculator.git/static/js/main.df33ebb0.js",
-    "index.html": "/Ashwin-Chavhan/Calculator.git/index.html",
-    "main.b877e960.css.map": "/Ashwin-Chavhan/Calculator.git/static/css/main.b877e960.css.map",
-    "main.df33ebb0.js.map": "/Ashwin-Chavhan/Calculator.git/static/js/main.df33ebb0.js.map"
+    "main.css": "/Calculator/static/css/main.b877e960.css",
+    "main.js": "/Calculator/static/js/main.df33ebb0.js",
+    "index.html": "/Calculator/index.html",
+    "main.b877e960.css.map": "/Calculator/static/css/main.b877e960.css.map",
+    "main.df33ebb0.js.map": "/Calculator/static/js/main.df33ebb0.js.map"
   },
   "entrypoints": [
     "static/css/main.b877e960.css",
